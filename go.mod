@@ -1,4 +1,4 @@
-module sso-protos
+module github.com/tolalur/golang-sso-protos
 
 go 1.22
 
